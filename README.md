@@ -41,3 +41,7 @@ One can simply run kanji_flashcards.py which will load the scraped data from the
 
 # Author
 Dexter Luu
+
+<br>
+
+[Go back to the main project page](https://dexkluu.github.io/Dexter/)
