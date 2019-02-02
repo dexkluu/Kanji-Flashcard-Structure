@@ -80,3 +80,4 @@ for i in range(1,len(kanji_freq)+1):
             on_reading_ex = []
     final_dict[i] =[main_meaning,kun_reading,kun_reading_ex,on_reading,on_reading_ex]
 # The final dictionary was saved as a pickle object
+kanji_info = final_dict
