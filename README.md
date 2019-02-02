@@ -19,3 +19,22 @@ I scraped the data and organized it using Python 3.6.5. The libraries used were 
 # The Process
 A dictionary entry for each kanji in the list was searched for using jisho.org.
 ![Screenshot](jisho_ss.png)
+The definition and kun and on readings at the top of the image were stored along with the different usage cases for the different type of readings(shown at the bottom of the image). The information for the kanji was printed out in the following format:
+```
+日~1. day, sun, Japan, counter for days
+Kun readings: ['ひ', '-び', '-か']
+ひ:  日 day, days, sun, sunshine, sunlight, case (esp. unfortunate), event
+On readings: ['ニチ', 'ジツ']
+ニチ:  日 Sunday, day (of the month), counter for days, Japan
+ジツ:  日月 sun and moon, time, days and months, years, Sunday and Monday
+|
+一~2. one, one radical (no.1)
+Kun readings: ['ひと-', 'ひと.つ']
+On readings: ['イチ', 'イツ']
+イチ:  一 one, best, first, foremost, beginning, start, ace (playing card), bottom string (on a shamisen, etc.)
+イツ:  均一 uniformity, equality
+```
+where the print would continue for however many characters the user wants. This can be copy and pasted into the quizlet flashcard maker where the "~" can be used to separate character from information and th "|" can be used to separate the different flashcards.
+
+# Author
+Dexter Luu
