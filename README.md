@@ -36,5 +36,8 @@ On readings: ['イチ', 'イツ']
 ```
 where the print would continue for however many characters the user wants. This can be copy and pasted into the quizlet flashcard maker where the "~" can be used to separate character from information and th "|" can be used to separate the different flashcards.
 
+# Replicating the results
+One can simply run kanji_flashcards.py which will load the scraped data from the pickle file and print the formatted data. top_kanji.py will scrape the information off of jisho.org.
+
 # Author
 Dexter Luu
