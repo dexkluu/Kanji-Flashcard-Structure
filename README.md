@@ -17,3 +17,4 @@ Information about the character meanings and different pronunciations were gathe
 I scraped the data and organized it using Python 3.6.5. The libraries used were BeautifulSoup, re, and requests. After scraping the data, a dictionary was made and this resulting file was saved as a pickle file. Therefore, pickle was used to reload the dictionary object back into Python if for some reason it was needed again.
 
 # The Process
+A dictionary entry for each kanji in the list was searched for using jisho.org.
