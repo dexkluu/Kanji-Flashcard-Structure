@@ -18,3 +18,4 @@ I scraped the data and organized it using Python 3.6.5. The libraries used were 
 
 # The Process
 A dictionary entry for each kanji in the list was searched for using jisho.org.
+(ss/jisho ss.png)
