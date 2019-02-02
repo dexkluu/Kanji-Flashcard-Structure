@@ -1,0 +1,2 @@
+# Overview
+As can be inferred from my other projects, I am interested in Japanese media. This interest has inspired me to try and learn a bit of Japanese. One of the most difficult parts is learning the necesary Kanji to understand a written sentence. Many say that to be fluent, one must know about 2000 Kanji. With so many characters, I went for the old fashioned flashcard method to memorize the characters.  
