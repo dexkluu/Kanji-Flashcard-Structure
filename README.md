@@ -34,7 +34,7 @@ On readings: ['イチ', 'イツ']
 イチ:  一 one, best, first, foremost, beginning, start, ace (playing card), bottom string (on a shamisen, etc.)
 イツ:  均一 uniformity, equality
 ```
-where the print would continue for however many characters the user wants. This can be copy and pasted into the quizlet flashcard maker where the "~" can be used to separate character from information and th "|" can be used to separate the different flashcards.
+where the print would continue for however many characters the user wants. This can be copy and pasted into the quizlet flashcard maker where the "~" can be used to separate character from information and the "|" can be used to separate the different flashcards.
 
 # Replicating the results
 One can simply run kanji_flashcards.py which will load the scraped data from the pickle file and print the formatted data. top_kanji.py will scrape the information off of jisho.org.
